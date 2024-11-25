@@ -8,11 +8,12 @@ This project features table detection and Optical Character Recognition (OCR) us
 - **Model**: YOLO v8
 - **Purpose**: Detects bordered and borderless tables in images.
 - **Performance**: Fine-tuned on a vast dataset to achieve high accuracy.
-- **Model Source**: [Hugging Face YOLO v8 Model](https://huggingface.co/foduucom/table-detection-and-extraction) *(add the actual link)*
+- **Model Source**: [Hugging Face YOLO v8 Model](https://huggingface.co/foduucom/table-detection-and-extraction) 
 
 ### OCR Model
 - **Model**: PaddleOCR
 - **Purpose**: Performs text detection and extraction from detected tables.
+- **Model Source**: [Repo link].(https://github.com/PaddlePaddle/PaddleOCR?tab=readme-ov-file) 
 
 ## Setup and Execution Instructions
 
