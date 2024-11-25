@@ -13,7 +13,7 @@ This project features table detection and Optical Character Recognition (OCR) us
 ### OCR Model
 - **Model**: PaddleOCR
 - **Purpose**: Performs text detection and extraction from detected tables.
-- **Model Source**: [Repo link].(https://github.com/PaddlePaddle/PaddleOCR?tab=readme-ov-file) 
+- **Model Source**: [Repo link](https://github.com/PaddlePaddle/PaddleOCR?tab=readme-ov-file) 
 
 ## Setup and Execution Instructions
 
